@@ -7,7 +7,6 @@ Using `Discord.js` and `MongoDB`.
 
 To set this bot up you will need to go into the file named `config.json`
 and provide a few things:
- - Your bots prefix
  - Ticket reaction message channel id
  - Ticket category id (optional)
  - Discord Bot Token

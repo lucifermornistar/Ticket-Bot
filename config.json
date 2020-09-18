@@ -1,5 +1,4 @@
 {
-    "prefix": "?", // your bots prefix 
     "ticketchannel": "channel id", // the channel id where your ticket reaction message will be
     "ticketcategory": "category id", // the category id where your tickets will be created (optional)
     "token": "bot token", // your bot token
